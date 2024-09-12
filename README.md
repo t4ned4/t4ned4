@@ -1,4 +1,4 @@
-<h1 align="center">My profile t4ned4</h1>
+<h1 align="center">My profile</h1>
 <h3 align="center">A programming　begginer from Japan</h3>
 
 - 🌱 I’m currently learning **Python/HTML/CSS/PostgreSQL/Git(Hub)/AWS**

@@ -8,6 +8,7 @@ I'm an infrastructure engineer who loves building things on a whim. Since softwa
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 *I can *just barely* read the code on my own, so I let AI do the heavy lifting for me!*
 
 #### IDE
